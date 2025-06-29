@@ -4,7 +4,7 @@ Hi 👋 My name is Hanshika Sahu
 Web Developer
 -------------
 
-Currently diving deeper into full-stack development and loving every bit of the learning journey.
+Currently diving deeper into full-stack development and loving every bit of the learning journey. 
 
 * ✉️  You can contact me at [2305935@kiit.ac.in](mailto:2305935@kiit.ac.in)
 * 🧠  I'm learning full-stack web development with React, Tailwind CSS, and PostgreSQL, while also exploring Python for scripting, automation, and data-driven projects.
