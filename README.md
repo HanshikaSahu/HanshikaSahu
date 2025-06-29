@@ -1,63 +1,46 @@
-# 👋 Hi, I'm Hanshika!
+# 💫 About Me
 
-🎯 A passionate frontend developer & lifelong learner who loves crafting user-friendly, responsive, and beautiful interfaces with **React** and **Tailwind CSS**.  
-🧠 Currently diving deeper into **Python** to explore automation and backend scripting.
+🌟 Hey there! I'm Hanshika — a frontend-focused full-stack developer passionate about building clean, responsive, and user-friendly web applications.
 
----
-
-## 💻 Tech Stack
-
-- ⚛️ Frontend: **React.js**, **Tailwind CSS**, **ShadCN UI**, **JavaScript (ES6+)**
-- 🌐 Backend: **Node.js**, **Express**
-- 🧪 Tools & Libraries: **Lucide Icons**, **AOS**, **React Router**, **Vite**
-- 📦 Deployment & Versioning: **Git**, **GitHub**, **Netlify**, **Vercel**
-- 🐍 Learning: **Python for scripting**, **API building**, and **automation**
+🧠 I'm continuously growing in my craft, with a strong focus on building real-world products using modern web technologies and UI libraries.
 
 ---
 
-## 🚀 Projects & Highlights
+## 👨‍💻 Tech Stack
 
-- 🧠 **Gemini Task Manager**:  
-  AI-powered task planner using Google Gemini API, Clerk Auth, and a beautiful modern UI.  
-  *(Tech: Next.js 15, Tailwind, ShadCN, Clerk, Hono, PostgreSQL, Drizzle ORM)*
+### 💻 Languages & Frameworks
+- 🟨 JavaScript (ES6+)
+- ⚛️ React.js, Next.js
+- 🎨 HTML5, CSS3, Tailwind CSS, ShadCN UI
+- 🐍 Python
+- 🌐 Node.js, Express.js
 
-- 🧪 **JMS Internship Website**:  
-  Interactive mentorship website built with Vite + React + Tailwind with sliding mentor showcase.
+### 🗃️ Databases
+- 🐘 PostgreSQL
+- 🍃 MongoDB
+- 🐬 MySQL
 
-- 💌 **Wix Studio Backend Demo**:  
-  Implemented Wix CRM automation using Velo to create contacts from a database row.
-
----
-
-## 🌱 Currently Learning
-
-- 🔸 Advanced **React patterns** and **component architecture**
-- 🔸 Backend scripting & automation with **Python**
-- 🔸 Full-stack app building with **Node.js**, **APIs**, and **PostgreSQL**
+### 🚀 Deployment & Version Control
+- 🧪 Git & GitHub
+- 🌐 Render, Vercel, Netlify
 
 ---
 
 ## 🤝 I'm open to collaborating on:
-
-- 🧠 Mental wellness / AI productivity tools  
-- ✨ React frontend projects that need pixel-perfect implementation  
-- 📈 Portfolio, product landing pages, or dashboards  
-
----
-
-## 📫 How to reach me:
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link)
-- 🌐 [Portfolio](https://yourportfolio.com) *(optional placeholder)*
-- 📧 yourname@example.com
+- Web apps (frontend-heavy or full-stack)
+- UI/UX polishing with Tailwind/ShadCN
+- Next.js/React-based projects
+- Building REST APIs and auth systems
+- Creative hackathon ideas 🚀
 
 ---
 
-## 🎨 Fun Fact
-
-I turn messy UIs into clean and intuitive designs — and I’m always chasing that perfect shade of orange 🎯🧡
+## 🌱 Soft Skills
+- 🔹 Strong communication and team collaboration
+- 🔹 Fast learner and self-driven
+- 🔹 Keen eye for UI/UX and attention to detail
+- 🔹 Adaptable and curious by nature
 
 ---
 
-> ✨ “Code is my canvas, and React is my brush.” 🎨
-
+> Let’s build something great together!
