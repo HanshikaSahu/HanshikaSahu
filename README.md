@@ -9,7 +9,7 @@ Web Developer
 
 Currently diving deeper into full-stack development and loving every bit of the learning journey.
 
-* ✉️  You can contact me at [2305935@kiit.ac.in](mailto:2305935@kiit.ac.in)
+* ✉️  You can contact me at [hanshikasahu03@gmail.com](mailto:hanshikasahu03@gmail.com)
 * 🧠  I'm learning full-stack web development with React, Tailwind CSS, and PostgreSQL, while also exploring Python for scripting, automation, and data-driven projects.
 * 🤝  I'm open to collaborating on exciting web development projects, frontend UI improvements, or beginner-friendly open source contributions
 * ⚡  My code works better at 2am
