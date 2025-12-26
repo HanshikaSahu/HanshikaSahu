@@ -56,9 +56,7 @@ Currently diving deeper into full-stack development and loving every bit of the 
 🌐 Connect with Me
 <p align="left"> <a href="https://www.linkedin.com/in/hanshika-sahu-120b9b301" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /> </a> &nbsp; <a href="http://www.instagram.com/hanshika._03" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" /> </a> &nbsp; <a href="https://github.com/HanshikaSahu" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" /> </a> &nbsp; <a href="https://discord.com/users/1381045742160056471" target="_blank"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" /> </a> </p>
 
-### Badges
-
-<b>My GitHub Stats</b>
+ 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
