@@ -66,6 +66,4 @@ Currently diving deeper into full-stack development and loving every bit of the 
 
 <a href="https://github.com/HanshikaSahu" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanshikaSahu&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>GitHub Activity</b>
-
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=HanshikaSahu&show_icons=true&theme=dark&hide_border=true" height="180em" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=HanshikaSahu&theme=dark&hide_border=true" height="180em" /> </div>
+ 
