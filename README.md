@@ -60,7 +60,7 @@ Currently diving deeper into full-stack development and loving every bit of the 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
-<a href="https://github.com/Vikram-Kumar-Sahu">
+<a href="https://github.com/HanshikaSahu">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HanshikaSahu&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HanshikaSahu&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HanshikaSahu&theme=aura" height="180em" />
