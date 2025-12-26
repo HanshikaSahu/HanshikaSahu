@@ -60,10 +60,14 @@ Currently diving deeper into full-stack development and loving every bit of the 
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/HanshikaSahu"><img src="https://github-readme-stats.vercel.app/api?username=HanshikaSahu&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="HanshikaSahu's GitHub stats" /></a>
-
-<a href="http://www.github.com/HanshikaSahu"><img src="https://github-readme-streak-stats.herokuapp.com/?user=HanshikaSahu&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/HanshikaSahu" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanshikaSahu&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<div align="center">
+<a href="https://github.com/Vikram-Kumar-Sahu">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HanshikaSahu&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HanshikaSahu&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HanshikaSahu&theme=aura" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HanshikaSahu&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HanshikaSahu&theme=2077" height="180em" />
+</div>
 
  
